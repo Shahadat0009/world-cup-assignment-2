@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Anek+Telugu:wght@700&display=swap");
+
+body {
+    font-family: 'Anek Telugu', sans-serif;
+
+}
+
+main {
+    align-items: center;
+}
+
+.container {
+    background-color: #161616;
+    color: white;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    border-radius: 20px;
+    justify-content: space-between;
+    width: 1321px;
+}
+
+.headings {
+    width: 531px;
+    height: 424px;
+    padding-left: 106px;
+    padding-top: 111px;
+    padding-bottom: 111px;
+}
+
+.headings a {
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    padding: 7px 7px;
+    border-radius: 5px;
+}
+
+.marcelo {
+    width: 581px;
+    padding-top: 33px;
+    padding-right: 79px;
+}
+
+.others {
+    display: flex;
+    margin: 50px 100px;
+    position: absolute;
+}
+
+.important-button {
+    width: 312px;
+    height: 252px;
+    background-color: #161616;
+    border-radius: 8px;
+    margin-top: 24px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    padding: 30px 30px;
+}
+
+.upcoming-matches {
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    padding-left: 60px;
+    padding-top: 10px;
+    border-radius: 7px;
+    height: 34px;
+}
+
+.all-groups {
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-left: 88px;
+    border-radius: 7px;
+    height: 34px;
+}
+
+.blog {
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-left: 105px;
+    border-radius: 7px;
+    height: 34px;
+}
+
+.transfer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.highlits {
+    width: 312px;
+    height: 362px;
+    margin-left: 24px;
+    margin-top: 24px;
+    border: 1px solid gray;
+    border-radius: 10px;
+
+}
+
+.highlits img {
+    width: 312px;
+    height: 172px;
+
+}
+
+.highlits p {
+    margin: 15px 20px;
+}
+
+.box {
+    width: 100px;
+    height: 32px;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding-top: 7px;
+    padding-left: 30px;
+    font-size: 14px;
+}
+
+.icon img {
+    width: 24px;
+    height: 24px;
+}
+
+.comments img {
+    width: 24px;
+    height: 24px;
+}
