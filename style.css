@@ -140,3 +140,24 @@ main {
     width: 24px;
     height: 24px;
 }
+
+.foooter {
+    width: 1660px;
+    height: 444px;
+    background-color: #161616;
+    margin-top: 930px;
+}
+
+.goal {
+    text-align: center;
+    color: white;
+    padding-top: 130px;
+    padding-left: 153px;
+    padding-right: 152px;
+}
+
+.foooter hr {
+    width: 1320px;
+    height: 0;
+
+}
